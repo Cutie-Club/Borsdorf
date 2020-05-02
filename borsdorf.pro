@@ -1,4 +1,4 @@
-update=Mon 13 Jan 2020 22:54:37 UTC
+update=Sat 02 May 2020 15:41:37 BST
 version=1
 last_client=kicad
 [cvpcb]
@@ -63,7 +63,7 @@ OthersTextSizeH=1
 OthersTextSizeThickness=0.15
 OthersTextItalic=0
 OthersTextUpright=1
-SolderMaskClearance=0.0508
+SolderMaskClearance=0
 SolderMaskMinWidth=0
 SolderPasteClearance=0
 SolderPasteRatio=-0
@@ -236,7 +236,7 @@ Enabled=0
 [pcbnew/Netclasses]
 [pcbnew/Netclasses/Default]
 Name=Default
-Clearance=0.127
+Clearance=0.1
 TrackWidth=0.127
 ViaDiameter=0.8
 ViaDrill=0.4
