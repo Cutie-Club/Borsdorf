@@ -29,3 +29,7 @@ fp-info-cache
 
 # Ignore assets folder
 assets/
+
+# Ignore zip
+*backups*
+*.zip

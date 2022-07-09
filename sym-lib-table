@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "borsdorf-rescue")(type "Legacy")(uri "${KIPRJMOD}/borsdorf-rescue.lib")(options "")(descr ""))
+)
